@@ -1,0 +1,13 @@
+/bin
+/obj
+Spirit Business Proposal/bin/
+Spirit Business Proposal/obj/
+\.vs/
+*.suo
+*.user
+
+Spirit Business Proposal/OutputPdfToDownload/
+
+packages/
+
+\.nuget/
